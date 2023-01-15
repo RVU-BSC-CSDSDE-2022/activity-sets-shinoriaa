@@ -18,7 +18,7 @@ return v;
 }
 float square_root(float n)
 {
-  float temp=0,sqrroot=0;
+  float temp=0,
   sqrroot=n/2;
   while(temp!=sqrroot)
     {
